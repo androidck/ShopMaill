@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingMall</string>
+
+    <!--主页-->
+    <string name="home_nav_index">首页</string>
+    <string name="home_nav_chat">聊天</string>
+    <string name="home_nav_me">我的</string>
+
+</resources>
